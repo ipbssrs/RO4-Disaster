@@ -24,8 +24,8 @@ ________________________________________________________________________________
 
 
 _
-<br/> CP: .....@gmail.com (*...malik....*)<img src="https://github.com/ipbssrs/ipbssrs/blob/e06c45804cf17ab573e55ff856c4c3b8bcf81b8e/logo-ssrs/Dir_Riset.png" align="right" width="33%" />
-<br/> SSRS RO15 - Coastal & Marine Research Group
+<br/> CP: malikzone314@gmail.com (*Abd. Malik A. Madinu*)<img src="https://github.com/ipbssrs/ipbssrs/blob/e06c45804cf17ab573e55ff856c4c3b8bcf81b8e/logo-ssrs/Dir_Riset.png" align="right" width="33%" />
+<br/> SSRS RO4 - Disaster Resaerch Group
   <br/> Center for Strategic Research Incubation
   <br/> **Directorate of Strategic Scientific Research**
   <br/> Deputy III - Coordination of Research Development 
