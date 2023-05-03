@@ -11,4 +11,4 @@ SSRS RO4 - Disaster Research Group is a research group of IPB SSRS Association
 * **Salamah Zukhrufa Jannah**, _Department of Geophysics and Meteorology_, _Faculty of Mathematics and Natural Sciences_, _IPB University_
 * **Azzahra Pascawisudawati**, _Department of Geophysics and Meteorology_, _Faculty of Mathematics and Natural Sciences_, _IPB University_
 * **Ela Sinta Nurlaela**, _Department of Geophysics and Meteorology_, _Faculty of Mathematics and Natural Sciences_, _IPB University_
-* **Ariel Lesmana**, _Department of Geophysics and Natural Sciences_, _Faculty of Mathematics and Natural Sciences_, _IPB University_
+* **Ariel M. Lesmana**, _Department of Geophysics and Natural Sciences_, _Faculty of Mathematics and Natural Sciences_, _IPB University_
