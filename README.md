@@ -4,4 +4,11 @@
 ## Overview
 SSRS RO4 - Disaster Research Group is a research group of IPB SSRS Association 
 ## Research Team
-* **Abd. Malik A. Madinu** (RO Coordinator), _Department of Geophysics and Meteorology, Faculty of Mathematics and Natural Sciences, IPB University
+* **Abd. Malik A. Madinu** (RO Coordinator), _Department of Geophysics and Meteorology_, _Faculty of Mathematics and Natural Sciences_, _IPB University_
+* **Andini Retno Ajeng Hartini** (RO Secretary), _Department of Geophysics and Meteorology_, _Faculty of Mathematics and Natural Sciences_, _IPB University_
+* **Tarisa Hikmah Ameiliani**, _Department of Forest Management_, _Faculty of Forestry and Environment_, _IPB University_
+* **Rizki Nur Alamsyah**, _Department of Geophysics and Meteorology_, _Faculty of Mathematics and Natural Sciences_, _IPB University_
+* **Salamah Zukhrufa Jannah**, _Department of Geophysics and Meteorology_, _Faculty of Mathematics and Natural Sciences_, _IPB University_
+* **Azzahra Pascawisudawati**, _Department of Geophysics and Meteorology_, _Faculty of Mathematics and Natural Sciences_, _IPB University_
+* **Ela Sinta Nurlaela**, _Department of Geophysics and Meteorology_, _Faculty of Mathematics and Natural Sciences_, _IPB University_
+* **Ariel Lesmana**, _Department of Geophysics and Natural Sciences_, _Faculty of Mathematics and Natural Sciences_, _IPB University_
