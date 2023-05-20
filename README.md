@@ -25,7 +25,10 @@ SSRS RO4 - Disaster Research Group is a research group of IPB SSRS Association
 <br />
   
 ## Project 
-* ![gem](https://img.shields.io/badge/PROJECT_1-Vegetation_Mapping_Project-blue) ![gem](https://img.shields.io/badge/PUBLICATION-P1-blue)
+* ![gem](https://img.shields.io/badge/PROJECT_1-Palu_Tsunamy_Project-red) ![gem](https://img.shields.io/badge/PUBLICATION-P1-red)
+* ![gem](https://img.shields.io/badge/PROJECT_2-Agriculture_Loss_Project-green) ![gem](https://img.shields.io/badge/PUBLICATION-P2-green)
+* ![gem](https://img.shields.io/badge/PROJECT_3-Land_Surface_Temperature_Project-brown) ![gem](https://img.shields.io/badge/PUBLICATION-P3-brown)
+* ![gem](https://img.shields.io/badge/PROJECT_4-Spatial_Statistic_Project-yellow) ![gem](https://img.shields.io/badge/PUBLICATION-P4-yellow)
 
     
 ## Progress
