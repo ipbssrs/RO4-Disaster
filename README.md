@@ -32,7 +32,10 @@ SSRS RO4 - Disaster Research Group is a research group of IPB SSRS Association
 
     
 ## Progress
-* [![Generic badge](https://img.shields.io/badge/PROJECT_1-ON_PROGRESS-<COLOR>.svg)](https://shields.io/) ![](https://geps.dev/progress/20?dangerColor=800000&warningColor=ff9900&successColor=006600)  [![Generic badge](https://progress-bar.dev/20?title=P1&color=grey)](https://shields.io/) 
+* [![Generic badge](https://img.shields.io/badge/PROJECT_1-ON_PROGRESS-<COLOR>.svg)](https://shields.io/) ![](https://geps.dev/progress/50?dangerColor=800000&warningColor=ff9900&successColor=006600)  [![Generic badge](https://progress-bar.dev/80?title=P1&color=grey)](https://shields.io/)
+* [![Generic badge](https://img.shields.io/badge/PROJECT_2-ON_PROGRESS-<COLOR>.svg)](https://shields.io/) ![](https://geps.dev/progress/40?dangerColor=800000&warningColor=ff9900&successColor=006600)  [![Generic badge](https://progress-bar.dev/60?title=P1&color=grey)](https://shields.io/)
+* [![Generic badge](https://img.shields.io/badge/PROJECT_3-ON_PRELIMINARY_STUDY-<COLOR>.svg)](https://shields.io/) ![](https://geps.dev/progress/5?dangerColor=800000&warningColor=ff9900&successColor=006600)  [![Generic badge](https://progress-bar.dev/10?title=P1&color=grey)](https://shields.io/)
+* [![Generic badge](https://img.shields.io/badge/PROJECT_4-ON_PRELIMINARY_STUDY-<COLOR>.svg)](https://shields.io/) ![](https://geps.dev/progress/5?dangerColor=800000&warningColor=ff9900&successColor=006600)  [![Generic badge](https://progress-bar.dev/10?title=P1&color=grey)](https://shields.io/)
 
 
 ________________________________________________________________________________________________________________________________________________________
